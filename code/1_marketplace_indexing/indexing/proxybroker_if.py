@@ -1,5 +1,5 @@
 """
-GT << currently not used
+currently not used
 """
 #might be useful in the future ... (larger set of proxies compared to Free Proxy List)
 
